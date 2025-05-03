@@ -16,7 +16,7 @@ st.markdown(
 
 # Halaman aplikasi Streamlit
 def main():
-    st.title('🍎Menghitung Kadar Gula dalam Jus Buah')
+    st.title('🥭Menghitung Kadar Gula dalam Jus Buah')
 
     # CSS untuk mengubah warna latar belakang, sidebar, dan ukuran font
     background_color = "#99CCFF"
