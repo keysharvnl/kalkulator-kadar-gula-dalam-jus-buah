@@ -97,58 +97,58 @@ kadargula_buah = {
         'vitamin': {'Vitamin A': '3%', 'Vitamin C': '14%'},
         
     },
-    'pisang': {
+    'Jus pisang': {
         'kadar gula': 24,
         'vitamin': {'Vitamin B6': '20%', 'Vitamin C': '14%'},
         
     },
-    'jeruk': {
+    'Jus jeruk': {
         'kadar gula': 21,
         'vitamin': {'Vitamin C': '90%'},
         
     },
-    'pir': {
+    'Jus pir': {
         'kadar gula': 12,
         'vitamin': {'Vitamin C': '7%'},
         
     },
-    'strawberry': {
+    'Jus strawberry': {
         'kadar gula': 13,
         'vitamin': {'Vitamin C': '98%'},
         
     },
-    'semangka': {
+    'Jus semangka': {
         'kadar gula': 9,
         'vitamin': {'Vitamin A': '11%', 'Vitamin C': '13%'},
         
     },
-    'mangga': {
+    'Jus mangga': {
         'kadar gula': 30,
         'vitamin': {'Vitamin A': '25%', 'Vitamin C': '76%'},
        
     },
-    'alpukat': {
+    'Jus alpukat': {
         'kadar gula': 2,
         'vitamin': {'Vitamin K': '26%', 'Vitamin E': '14%'},
    
     },
-    'kiwi': {
+    'Jus kiwi': {
         'kadar gula': 20,
         'vitamin': {'Vitamin C': '112%', 'Vitamin K': '38%'},
    
     },
-    'melon': {
+    'Jus melon': {
         'kadar gula': 12,
         'vitamin': {'Vitamin A': '12%', 'Vitamin C': '61%'},
         
     },
     
-    'buah naga': {
+    'Jus buah naga': {
         'kadar gula': 15,
         'vitamin': {'Vitamin C': '9%', 'Vitamin B3': '8%'},
     
     },
-    'sirsak': {
+    'Jus sirsak': {
         'kadar gula': 12,
         'vitamin': {'Vitamin C': '24%', 'Vitamin B6': '5%'},
      
