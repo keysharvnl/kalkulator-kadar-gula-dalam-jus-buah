@@ -186,7 +186,7 @@ kadargula_buah = {
 
 # Sekarang lanjutkan dengan kode aplikasi Streamlit Anda seperti biasa
 
-st.title('🍎Menghitung Kadar Gula dalam Jus Buah')
+st.title('🍓Menghitung Kadar Gula dalam Jus Buah')
 st.write("Selamat datang di aplikasi menghitung kadar gula dalam jus buah. Pilih buah favorit Anda , lalu kami akan memberi tahu Anda jumlah kadar gula yang terkandung.")
 buah = st.selectbox('Pilih Buah', list(kadargula_buah.keys()), format_func=lambda x: x.capitalize())
 
