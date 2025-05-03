@@ -19,7 +19,7 @@ def main():
     st.title('🍎Menghitung Kadar Gula dalam Jus Buah')
 
     # CSS untuk mengubah warna latar belakang, sidebar, dan ukuran font
-    background_color = "#CCCCFF"
+    background_color = "#99CCFF"
     font_size = "25px"  # Ukuran font untuk teks biasa
     header_font_size = "40px"  # Ukuran font untuk header
     subheader_font_size = "30px"  # Ukuran font untuk subheader
