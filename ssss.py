@@ -14,6 +14,34 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+# Halaman aplikasi Streamlit
+def main():
+    st.title('🍎Menghitung Kadar Gula dalam Jus Buah')
+
+    # CSS untuk mengubah warna latar belakang, sidebar, dan ukuran font
+    background_color = "#CCCCFF"
+    font_size = "25px"  # Ukuran font untuk teks biasa
+    header_font_size = "40px"  # Ukuran font untuk header
+    subheader_font_size = "30px"  # Ukuran font untuk subheader
+    st.markdown(f"""
+        <style>
+        .stApp {{
+            background-color: {background_color} !important;
+            font-size: {font_size} !important;
+        }}
+        .st-bd {{
+            background-color: {background_color} !important;
+        }}
+        h1 {{
+            font-size: {header_font_size} !important;
+        }}
+        h2 {{
+            font-size: {subheader_font_size} !important;
+        }}
+        </style>
+        """, unsafe_allow_html=True)
+
+
 # Informasi tambahan tentang manfaat kesehatan, cara memilih buah yang baik, dan resep
 informasi_tambahan = {
     'apel': {
