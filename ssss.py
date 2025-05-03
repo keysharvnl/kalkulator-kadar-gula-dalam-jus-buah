@@ -4,7 +4,7 @@ import pandas as pd
 # Menampilkan slide untuk pendahuluan
 st.markdown(
     """
-    <div style='background-color: #F08080; padding: 20px; border-radius: 10px;'>
+    <div style='background-color: #F0808; padding: 20px; border-radius: 10px;'>
         <h2 style='color: #333333; text-align:center;'>Selamat Datang di Aplikasi Menghitung Kadar Gula Dalam Jus Buah</h2>
         <p style='color: #333333; text-align:justify;'>Aplikasi ini dirancang untuk membantu Anda menghitung jumlah kadar gula dalam berbagai jenis buah sebanyak 250mL. . 
         Pilih jus buah yang anda ingin ketahui kadar gulanya dan aplikasi kami akan memberikan informasi tentang jumlah kadar gulanya.
@@ -19,7 +19,7 @@ def main():
     st.title('🥭Menghitung Kadar Gula dalam Jus Buah')
 
     # CSS untuk mengubah warna latar belakang, sidebar, dan ukuran font
-    background_color = "#99CCFF"
+    background_color = "#000000"
     font_size = "25px"  # Ukuran font untuk teks biasa
     header_font_size = "40px"  # Ukuran font untuk header
     subheader_font_size = "30px"  # Ukuran font untuk subheader
