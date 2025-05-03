@@ -4,7 +4,7 @@ import pandas as pd
 # Menampilkan slide untuk pendahuluan
 st.markdown(
     """
-    <div style='background-color: #f0f0f0; padding: 20px; border-radius: 10px;'>
+    <div style='background-color: #F08080; padding: 20px; border-radius: 10px;'>
         <h2 style='color: #333333; text-align:center;'>Selamat Datang di Aplikasi Menghitung Kadar Gula Dalam Jus Buah</h2>
         <p style='color: #333333; text-align:justify;'>Aplikasi ini dirancang untuk membantu Anda menghitung jumlah kadar gula dalam berbagai jenis buah sebanyak 250mL. . 
         Pilih jus buah yang anda ingin ketahui kadar gulanya dan aplikasi kami akan memberikan informasi tentang jumlah kadar gulanya.
